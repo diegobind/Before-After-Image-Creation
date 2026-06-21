@@ -1,0 +1,6 @@
+{
+  "name": "Before & After Creator",
+  "description": "Create professional, branded side-by-side Before & After social media comparison images for design, construction, and service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
